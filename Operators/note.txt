@@ -1,0 +1,9 @@
+Operators:
+1.Arithmatic Operator: + , - , / , * , %;
+2. Relational Operator: < , <= , > , >= , == , !=;
+3. Logical Operator : 
+or = ||;
+and = && apmercent;
+mot = !;
+4. Bitwise Operator;
+5. Unarry Operator;

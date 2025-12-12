@@ -1,8 +1,14 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-  cout << "Hello World";
+int main()
+{
+  int age;
+  cout << "Enter Your age: ";
+  cin >> age ;
+  cout << "Your age is: " << age;
   return 0;
 }
+
+// cisis
